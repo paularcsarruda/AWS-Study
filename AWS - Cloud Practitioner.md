@@ -16,15 +16,23 @@ A computação em nuvem é a entrega de recursos de TI sob demanda por meio da I
 
 ## Tipos de Cloud
 
-IAAS - Servidores; VM; Storage
+Há três tipos principais de opções de cloud computing como serviço, e cada um deles se encarrega de uma parte do gerenciamento para você: infraestrutura como serviço (IaaS), plataforma como serviço (PaaS) e software como serviço (SaaS).
 
-PAAS - Hospedagem; SO; DB
+### IaaS
+A infraestrutura como serviço ou IaaS está a um passo da infraestrutura on-premise. Ela é um tipo de serviço com pagamento por utilização em que um fornecedor disponibiliza para sua empresa serviços de infraestrutura (como armazenamento e virtualização), de acordo com a necessidade, por meio de uma nuvem ou pela Internet. 
 
-SAAS - App
+### PaaS
+A plataforma como serviço (PaaS) está um passo além do gerenciamento de uma infraestrutura totalmente on-premise. Nessa modalidade, o provedor hospeda os componentes de hardware e software em sua própria infraestrutura, fornecendo uma plataforma que pode ser utilizada como uma solução integrada, um stack de soluções ou um serviço conectado via com a Internet.
+
+Muito útil principalmente para desenvolvedores e programadores, a solução de PaaS permite ao usuário desenvolver, executar e gerenciar aplicações sem o trabalho de criar e manter a infraestrutura ou plataforma que normalmente está associada a esses processos. 
+
+### SaaS
+A solução de software como serviço (SaaS), também conhecida como serviços de aplicações em nuvem, constitui a forma mais abrangente de serviços de cloud computing, pois fornece uma aplicação inteira que é gerenciada por um provedor e acessada via navegador da web. 
+
+Atualizações, correções de bugs e outras tarefas gerais de manutenção do software são realizadas pelo provedor. O usuário precisa apenas se conectar à aplicação por meio de um painel de controle ou uma API. Não é necessário instalar nenhum software em máquinas individuais. Além disso, o acesso de grupos ao programa é feito de uma maneira mais fácil e confiável. 
 
 # IAM - Identity and Access Management
 
-Gerenciar acesso aos recursos da AWS
+Com o AWS Identity and Access Management (IAM), você pode especificar quem ou o que pode acessar serviços e recursos na AWS, gerenciar permissões refinadas de maneira centralizada e analisar o acesso para refinar as permissões na AWS.
 
-organizar os usuários que tem ou não acesso a conta da AWS.
 
